@@ -21,5 +21,9 @@ def ContainDuplicate(nums):
 nums = [1,2,3,1]
 print(ContainDuplicate(nums))
 
+# Output 
+
+# True
+
 
     
