@@ -11,6 +11,8 @@
 # Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. 
 # Therefore its length is 4.
 
+# Link to question:- https://leetcode.com/problems/longest-consecutive-sequence/
+
 def longestConsecutive(nums):
         nums = set(nums)
         longest = 0
