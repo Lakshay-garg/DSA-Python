@@ -6,6 +6,8 @@
 # and you may not use the same element twice.
 # You can return the answer in any order.
 
+# Link to question:- https://leetcode.com/problems/two-sum/
+
 # For Example:
 # Input: nums = [2,7,11,15], target = 9
 # Output: [0,1]
