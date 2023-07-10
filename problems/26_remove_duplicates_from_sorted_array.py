@@ -11,7 +11,8 @@
 # contain the unique elements in the order they were present in nums 
 # initially. The remaining elements of nums are not important 
 # as well as the size of nums.
-# Return k.
+
+# link to question:- https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 # For example-->
 # Input: nums = [1,1,2]
