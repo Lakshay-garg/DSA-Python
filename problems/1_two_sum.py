@@ -26,4 +26,4 @@ target = 9
 print(twoSum(nums,target))
 
 # Output
-# [1, 0]
+# [0,1]
