@@ -1,5 +1,7 @@
 # 1572. Matrix Diagonal Sum
 
+# Link to question:- https://leetcode.com/problems/matrix-diagonal-sum/
+
 # Given a square matrix mat, return the sum of the matrix diagonals.
 
 # Only include the sum of all the elements on the primary diagonal and 
