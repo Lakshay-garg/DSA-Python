@@ -1,3 +1,5 @@
+# 1572. Matrix Diagonal Sum
+
 # Given a square matrix mat, return the sum of the matrix diagonals.
 
 # Only include the sum of all the elements on the primary diagonal and 
